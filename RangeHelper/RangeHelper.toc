@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: RangeHelper
+## Notes: Hunter range helper - shows Melee / Dead Zone / Ranged: XX / Out of Range over mobs.
+## Author: You
+## Version: 1.2
+## SavedVariables: RangeHelperDB
+
+Libs\LibRangeCheck-3.0\LibStub.lua
+Libs\LibRangeCheck-3.0\LibRangeCheck-3.0.lua
+RangeHelper.lua
+Options.lua
